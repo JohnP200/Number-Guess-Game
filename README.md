@@ -10,5 +10,5 @@ A beginner-friendly Python game where the computer picks a number between 1 and 
 
 ## Run the Game
 
-'''bash
+```bash
 python number_guessing_game.py
